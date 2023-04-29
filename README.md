@@ -17,6 +17,8 @@ This is a command-line application built with Node.js that takes in information 
 
 ## Installation
 
+To simply view the application, open [deployed application link.](https://honey8131.github.io/team-profile-generator/)
+
 To install the necessary dependencies, run the following command:
 
 ```

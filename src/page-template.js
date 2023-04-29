@@ -78,7 +78,7 @@ const template = data => {
     <html>
         <head>
             <title>Team Profile</title>
-            <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+            <link href="/dist/style.css" rel="stylesheet">
             <link rel= stylesheet" href="../dist/style.css"><source src="../page-template.js" type="page-template">
         </head>
         <body>

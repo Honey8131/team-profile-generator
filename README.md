@@ -1,6 +1,7 @@
 Team Profile Generator
 
-GitHub license
+[![GitHub license](https://img.shields.io/badge/license-N/A-red.svg)](N/A)
+
 ## Description
 
 This is a command-line application built with Node.js that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
@@ -66,4 +67,4 @@ If you have any questions about this project, please feel free to contact me thr
 
 Here is a walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests:
 
-[Link to Video](/README/demo.gif)
+![Team Profile Generator Walkthrough GIF](/README/demo.gif)
